@@ -1,1 +1,1 @@
-Simple demonstration of usage of methods and properties in CODESYS 3
+Demonstration of usage of methods and properties in CODESYS 3
