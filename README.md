@@ -1,6 +1,8 @@
-# OOP-concept-examples
+# OOP-Concept-Examples-in-CODESYS
 
-Following S.O.L.I.D. principles in the CODESYS environment;
+
+Using S.O.L.I.D. principles;
+
 
 - Single responsibility principle;
 
