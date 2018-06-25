@@ -1,4 +1,4 @@
-# Shows the usage of the __New operator in CODESY3
+# Demonstrates the usage of the __New operator in CODESY3
 
 # Use of this mechanism within production environments is STRONGLY DISCOURAGED
 
