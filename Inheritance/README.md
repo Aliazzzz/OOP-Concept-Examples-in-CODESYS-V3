@@ -1,1 +1,1 @@
-Demonstration of usage of Inheritance in CODESYS 3
+Demonstratates the usage of the Inheritance Concept in CODESYS 3
