@@ -1,8 +1,7 @@
 # OOP-Concept-Examples-in-CODESYS-V3
 
 
-Using S.O.L.I.D. principles;
-
+Following S.O.L.I.D. principles
 
 - Single responsibility principle;
 
