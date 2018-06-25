@@ -1,1 +1,1 @@
-Demonstration of usage of Interfaces using pointers or references in CODESYS 3
+Demonstrates the usage of Interfaces using pointers and/or references in CODESYS 3
