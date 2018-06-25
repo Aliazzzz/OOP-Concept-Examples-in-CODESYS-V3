@@ -1,1 +1,1 @@
-Demonstration of usage of Polymorphism in CODESYS 3
+Demonstratates the usage of Polymorphism in CODESYS 3
